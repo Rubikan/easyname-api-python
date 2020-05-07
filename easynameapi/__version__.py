@@ -1,0 +1,6 @@
+__title__ = 'easyname-api-python'
+__description__ = 'Python client library for the easyname domain management API.'
+__url__ = 'https://github.com/Rubikan/easyname-api-python'
+__version__ = '0.0.1'
+__author__ = 'Andreas Rubik'
+__author_email__ = 'rubikandreas@gmail.com'
